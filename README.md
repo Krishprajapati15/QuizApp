@@ -4,14 +4,11 @@ Welcome to the Quiz App! This application is designed to provide an interactive 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [API](#api)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -47,13 +44,9 @@ Ensure you have the following installed:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yusha0123/Quiz-App.git
+   git clone https://github.com/krishprajapati15/QuizApp.git
    ```
-2. Navigate to the project directory
-   ```sh
-   cd Quiz-App
-   ```
-3. Install dependencies
+2. Install dependencies
    ```sh
    npm install
    ```
